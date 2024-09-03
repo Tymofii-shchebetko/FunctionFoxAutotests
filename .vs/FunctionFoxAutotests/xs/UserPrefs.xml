@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C7AA1AE6-66FE-4126-A48A-398129FE7988}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PageObjects/InitPage.cs">
+    <Files>
+      <File FileName="FunctionFoxAutotests/UnitTest1.cs" Line="10" Column="16" />
+      <File FileName="FunctionFoxAutotests/BaseTest.cs" Line="10" Column="19" />
+      <File FileName="PageObjects/Class1.cs" Line="6" Column="26" />
+      <File FileName="PageObjects/LoginPage.cs" Line="23" Column="60" />
+      <File FileName="PageObjects/InitPage.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunctionFoxAutotests" expanded="True">
+            <Node name="PageObjects" expanded="True">
+              <Node name="InitPage.cs" selected="True" />
+            </Node>
+            <Node name="Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FunctionFoxAutotests" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="Tests" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

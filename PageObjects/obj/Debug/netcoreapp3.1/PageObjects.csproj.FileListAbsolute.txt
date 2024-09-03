@@ -1,0 +1,13 @@
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/bin/Debug/netcoreapp3.1/selenium-manager/linux/selenium-manager
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/bin/Debug/netcoreapp3.1/selenium-manager/macos/selenium-manager
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/bin/Debug/netcoreapp3.1/selenium-manager/windows/selenium-manager.exe
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/bin/Debug/netcoreapp3.1/PageObjects.deps.json
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/bin/Debug/netcoreapp3.1/PageObjects.dll
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/bin/Debug/netcoreapp3.1/PageObjects.pdb
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/obj/Debug/netcoreapp3.1/PageObjects.csproj.AssemblyReference.cache
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/obj/Debug/netcoreapp3.1/PageObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/obj/Debug/netcoreapp3.1/PageObjects.AssemblyInfoInputs.cache
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/obj/Debug/netcoreapp3.1/PageObjects.AssemblyInfo.cs
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/obj/Debug/netcoreapp3.1/PageObjects.csproj.CoreCompileInputs.cache
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/obj/Debug/netcoreapp3.1/PageObjects.dll
+/Users/tymofiishchebetko/Projects/FunctionFoxAutotests/PageObjects/obj/Debug/netcoreapp3.1/PageObjects.pdb
